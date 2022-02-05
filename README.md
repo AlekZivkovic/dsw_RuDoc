@@ -7,12 +7,11 @@
 
 
 ## Vizija
->RuDok predstavlja amaterski projekat interaktivnog, GUI orijentisanog, programa za rukovođenje dokumentima. 
->Glavna primena ovog alata biće multimedijalni editor. 
->Multimedijani editor će doprineti pojedicnu da edituje sve vrste fajlova, bilo da je u pitanju audio, slika, text fajl,
-> sa najnovijim opcijama editovanja. Sadržaće i osnovne funkcije poput pravljenja i čitanja bilo 
->kakvog tipa dokumenta, onlajn repozitorijum, mogućnosti višetrukog rada na jednom dokumentu itd. Takođe korisnicima će 
->će biti dostupna pomoć od strane developera.
+>RuDok is an amateur project of an interactive, GUI-oriented, document management program. 
+>The main application of this tool will be a multimedia editor. 
+>The multimedia editor will help the individual to edit all types of files, be it audio, image, text file, with the latest editing options. 
+>It will also contain basic functions such as creating and reading any type of document, online repository, the possibility of multiple work on one document, etc. 
+>Developer help will also be available to users. 
 
 
 ## Ciljne Grupe
